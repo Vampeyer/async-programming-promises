@@ -2,11 +2,16 @@
 
 Good evening everyone. 
 
-hey john , 
+If you are reading this , you have been challenged.  
+
+simple running a promise with 
+npm run dev , to host your own server , 
+and display the flag in the console. 
+
 - Capture the flag.  
 
 03/06/2023-3:37pm 
-@john1234brown , I have left specific notes for you on 
+, I have left specific notes for you on 
 creating.mjs     - ( which is just a js file  thats a module by default , )
 lines 
 88 - 114
